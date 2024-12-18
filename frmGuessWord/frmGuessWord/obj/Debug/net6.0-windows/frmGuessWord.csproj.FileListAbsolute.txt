@@ -1,0 +1,17 @@
+C:\Users\shello\Desktop\learning material\VisualBasic\frmGuessWord\frmGuessWord\bin\Debug\net6.0-windows\frmGuessWord.exe
+C:\Users\shello\Desktop\learning material\VisualBasic\frmGuessWord\frmGuessWord\bin\Debug\net6.0-windows\frmGuessWord.deps.json
+C:\Users\shello\Desktop\learning material\VisualBasic\frmGuessWord\frmGuessWord\bin\Debug\net6.0-windows\frmGuessWord.runtimeconfig.json
+C:\Users\shello\Desktop\learning material\VisualBasic\frmGuessWord\frmGuessWord\bin\Debug\net6.0-windows\frmGuessWord.dll
+C:\Users\shello\Desktop\learning material\VisualBasic\frmGuessWord\frmGuessWord\bin\Debug\net6.0-windows\frmGuessWord.pdb
+C:\Users\shello\Desktop\learning material\VisualBasic\frmGuessWord\frmGuessWord\obj\Debug\net6.0-windows\frmGuessWord.csproj.AssemblyReference.cache
+C:\Users\shello\Desktop\learning material\VisualBasic\frmGuessWord\frmGuessWord\obj\Debug\net6.0-windows\frmGuessWord.Form1.resources
+C:\Users\shello\Desktop\learning material\VisualBasic\frmGuessWord\frmGuessWord\obj\Debug\net6.0-windows\frmGuessWord.csproj.GenerateResource.cache
+C:\Users\shello\Desktop\learning material\VisualBasic\frmGuessWord\frmGuessWord\obj\Debug\net6.0-windows\frmGuessWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shello\Desktop\learning material\VisualBasic\frmGuessWord\frmGuessWord\obj\Debug\net6.0-windows\frmGuessWord.AssemblyInfoInputs.cache
+C:\Users\shello\Desktop\learning material\VisualBasic\frmGuessWord\frmGuessWord\obj\Debug\net6.0-windows\frmGuessWord.AssemblyInfo.cs
+C:\Users\shello\Desktop\learning material\VisualBasic\frmGuessWord\frmGuessWord\obj\Debug\net6.0-windows\frmGuessWord.csproj.CoreCompileInputs.cache
+C:\Users\shello\Desktop\learning material\VisualBasic\frmGuessWord\frmGuessWord\obj\Debug\net6.0-windows\frmGuessWord.dll
+C:\Users\shello\Desktop\learning material\VisualBasic\frmGuessWord\frmGuessWord\obj\Debug\net6.0-windows\refint\frmGuessWord.dll
+C:\Users\shello\Desktop\learning material\VisualBasic\frmGuessWord\frmGuessWord\obj\Debug\net6.0-windows\frmGuessWord.pdb
+C:\Users\shello\Desktop\learning material\VisualBasic\frmGuessWord\frmGuessWord\obj\Debug\net6.0-windows\frmGuessWord.genruntimeconfig.cache
+C:\Users\shello\Desktop\learning material\VisualBasic\frmGuessWord\frmGuessWord\obj\Debug\net6.0-windows\ref\frmGuessWord.dll
